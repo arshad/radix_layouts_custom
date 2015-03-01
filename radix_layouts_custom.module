@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Sample module for adding new radix layouts.
+ * Sample module for adding custom Radix layouts.
  */
 
 /**

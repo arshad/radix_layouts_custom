@@ -1,5 +1,5 @@
 name = Radix Layouts Custom
-description = Sample module for adding new radix layouts.
+description = Sample module for adding custom Radix layouts.
 core = 7.x
 
 dependencies[] = panels
